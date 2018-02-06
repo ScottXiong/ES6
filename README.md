@@ -1,6 +1,11 @@
 # ES6
 ECMA SCRIPT 6
 
+## table of contents
++ [let & const]()
++ [Arrow Function]()
++ [Promise]()
+
 ### let & const
 let 定义变量，const定义常量；let不可重复定义（否则会报错，the varible has been declared），var可以，let有块及作用域限制(即在块外是访问不到的);
 ```
